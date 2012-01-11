@@ -694,7 +694,7 @@ msgstr "Bitte gib deine Stadt an"
 
 #: r2/controllers/validator/validator.py:1484
 msgid "please provide your state"
-msgstr ""
+msgstr "Bitte gib deinen Staat"
 
 #: r2/controllers/validator/validator.py:1486
 msgid "please provide your zip or post code"
@@ -702,23 +702,23 @@ msgstr ""
 
 #: r2/controllers/validator/validator.py:1488
 msgid "please pick a country"
-msgstr ""
+msgstr "Bitte wähle ein Land aus"
 
 #: r2/controllers/validator/validator.py:1492
 msgid "Our ToS don't cover your country (yet). Sorry."
-msgstr ""
+msgstr "Unser ToS wird (noch) nicht für dein Land unterstüzt. 'tschuldigung."
 
 #: r2/controllers/validator/validator.py:1511
 msgid "credit card numbers should be 13 to 16 digits"
-msgstr ""
+msgstr "Kreditkartennummern sollten 13 bis 16 stellen haben"
 
 #: r2/controllers/validator/validator.py:1514
 msgid "dates should be YYYY-MM"
-msgstr ""
+msgstr "Daten sollten im JJJJ-MM Format sein"
 
 #: r2/controllers/validator/validator.py:1516
 msgid "card verification codes should be 3 or 4 digits"
-msgstr ""
+msgstr "Kartenverifizierungscodes sollten 3 oder 4 Stellen haben"
 
 #: r2/lib/cssfilter.py:307
 msgid "if you need backslashes, you're doing it wrong"
@@ -750,7 +750,7 @@ msgstr "Empfohlen"
 
 #: r2/lib/menus.py:52
 msgid "promote"
-msgstr ""
+msgstr "empfehlen"
 
 #: r2/lib/menus.py:56
 msgid "hot"
@@ -790,7 +790,7 @@ msgstr "Kontrovers"
 
 #: r2/lib/menus.py:65
 msgid "best"
-msgstr ""
+msgstr "Bestes"
 
 #: r2/lib/menus.py:66
 msgid "saved {toolbar}"
@@ -850,7 +850,7 @@ msgstr "Einstellungen"
 
 #: r2/lib/menus.py:89
 msgid "blog"
-msgstr ""
+msgstr "Blog"
 
 #: r2/lib/menus.py:90 r2/templates/utils.html:424
 msgid "logout"
@@ -858,11 +858,11 @@ msgstr "Logout"
 
 #: r2/lib/menus.py:93
 msgid "contact us"
-msgstr ""
+msgstr "Kontaktiere uns"
 
 #: r2/lib/menus.py:94
 msgid "firefox extension"
-msgstr ""
+msgstr "Firefox Erweiterung"
 
 #: r2/lib/menus.py:95
 msgid "buttons"
@@ -886,11 +886,11 @@ msgstr "Store"
 
 #: r2/lib/menus.py:100
 msgid "advertise"
-msgstr ""
+msgstr "Werben"
 
 #: r2/lib/menus.py:102
 msgid "subreddits"
-msgstr ""
+msgstr "Subreddits"
 
 #: r2/lib/menus.py:105 r2/templates/promotelinkform.html:317
 msgid "options"
@@ -898,7 +898,7 @@ msgstr "Optionen"
 
 #: r2/lib/menus.py:106
 msgid "RSS feeds"
-msgstr ""
+msgstr "RSS Feeds"
 
 #: r2/lib/menus.py:107
 msgid "friends"
@@ -937,19 +937,19 @@ msgstr "Details"
 #: r2/lib/menus.py:120
 #, python-format
 msgid "other discussions (%(num)s)"
-msgstr ""
+msgstr "Andere Diskussionen (%(num)s)"
 
 #: r2/lib/menus.py:121
 msgid "shirt"
-msgstr ""
+msgstr "Hemd"
 
 #: r2/lib/menus.py:122
 msgid "traffic stats"
-msgstr ""
+msgstr "Verkehrsstatistiken"
 
 #: r2/lib/menus.py:125
 msgid "home"
-msgstr ""
+msgstr "Home"
 
 #: r2/lib/menus.py:126 r2/lib/pages/pages.py:408
 msgid "about"
@@ -957,20 +957,20 @@ msgstr "Über"
 
 #: r2/lib/menus.py:127
 msgid "edit subscriptions"
-msgstr ""
+msgstr "Abonnement bearbeiten"
 
 #: r2/lib/menus.py:128 r2/lib/pages/pages.py:1032
 #: r2/templates/createsubreddit.html:39
 msgid "community settings"
-msgstr ""
+msgstr "Community-Einstellungen"
 
 #: r2/lib/menus.py:129
 msgid "edit moderators"
-msgstr ""
+msgstr "Moderatoren bearbeiten"
 
 #: r2/lib/menus.py:130
 msgid "moderator mail"
-msgstr ""
+msgstr "Moderatoren-Mail"
 
 #: r2/lib/menus.py:131
 msgid "edit approved submitters"
@@ -982,7 +982,7 @@ msgstr "Benutzer bannen"
 
 #: r2/lib/menus.py:134
 msgid "edit user flair"
-msgstr ""
+msgstr "Benutzerflair bearbeiten"
 
 #: r2/lib/menus.py:136
 msgid "popular"
@@ -999,19 +999,19 @@ msgstr "Meine reddits"
 
 #: r2/lib/menus.py:141 r2/templates/subredditstylesheet.html:87
 msgid "errors"
-msgstr ""
+msgstr "Fehler"
 
 #: r2/lib/menus.py:143
 msgid "ads"
-msgstr ""
+msgstr "Werbungen"
 
 #: r2/lib/menus.py:144
 msgid "usage"
-msgstr ""
+msgstr "Benutzung"
 
 #: r2/lib/menus.py:145
 msgid "promoted"
-msgstr ""
+msgstr "Empfohlen"
 
 #: r2/lib/menus.py:146
 msgid "reporters"
@@ -1023,7 +1023,7 @@ msgstr ""
 
 #: r2/lib/menus.py:148
 msgid "reported authors"
-msgstr "Berichtet Autoren"
+msgstr ""
 
 #: r2/lib/menus.py:149
 msgid "info"
@@ -1064,23 +1064,23 @@ msgstr ""
 
 #: r2/lib/menus.py:161
 msgid "create promotion"
-msgstr ""
+msgstr "Empfehlung erstellen"
 
 #: r2/lib/menus.py:162
 msgid "my promoted links"
-msgstr ""
+msgstr "meine empfohlenen Links"
 
 #: r2/lib/menus.py:163
 msgid "all promoted links"
-msgstr ""
+msgstr "alle empfohlenen Links"
 
 #: r2/lib/menus.py:164
 msgid "unseen"
-msgstr ""
+msgstr "ungesehen"
 
 #: r2/lib/menus.py:165
 msgid "roadblock"
-msgstr ""
+msgstr "Straßensperre"
 
 #: r2/lib/menus.py:166
 msgid "analytics"
@@ -1088,27 +1088,27 @@ msgstr ""
 
 #: r2/lib/menus.py:167
 msgid "live"
-msgstr ""
+msgstr "Live"
 
 #: r2/lib/menus.py:168
 msgid "unpaid"
-msgstr ""
+msgstr "unbezahlt"
 
 #: r2/lib/menus.py:169
 msgid "pending"
-msgstr ""
+msgstr "ausstehend"
 
 #: r2/lib/menus.py:170
 msgid "rejected"
-msgstr ""
+msgstr "abgelehnt"
 
 #: r2/lib/menus.py:172
 msgid "whitelist"
-msgstr ""
+msgstr "Whitelist"
 
 #: r2/lib/menus.py:414
 msgid "sorted by"
-msgstr ""
+msgstr "sortiert nach"
 
 #: r2/lib/menus.py:480
 msgid "kind"
@@ -1122,7 +1122,7 @@ msgstr "Links von"
 msgid "day"
 msgid_plural "days"
 msgstr[0] "Tag"
-msgstr[1] "Tagen"
+msgstr[1] "Tage"
 
 #: r2/lib/rand_strings.py:3
 msgid "Funny 500 page message 1"
@@ -1130,7 +1130,7 @@ msgstr "reddit ist kaputt :("
 
 #: r2/lib/rand_strings.py:4
 msgid "Funny 500 page message 2"
-msgstr ""
+msgstr "Wusstest du?: reddit user lonely_ent_guy hat geholfen, Reddit ins Deutsche zu übersetzen!"
 
 #: r2/lib/rand_strings.py:5
 msgid "Funny 500 page message 3"
@@ -1341,7 +1341,7 @@ msgstr ""
 
 #: r2/lib/strings.py:82
 msgid "your reddit has been created"
-msgstr ""
+msgstr "Dein Reddit wurde erstellt"
 
 #: r2/lib/strings.py:84
 msgid ""
@@ -1358,7 +1358,7 @@ msgstr ""
 #: r2/lib/strings.py:86
 #, python-format
 msgid "visit [%(link)s](%(link)s) for more information"
-msgstr ""
+msgstr "besuche [%(link)s](%(link)s) für mehr Informationen"
 
 #: r2/lib/strings.py:90
 #, python-format
@@ -1373,7 +1373,7 @@ msgstr ""
 #: r2/lib/strings.py:92
 #, python-format
 msgid "you have been banned from posting to [%(title)s](%(url)s)."
-msgstr "Du bist verboten, zu [%(title)s](%(url)s)  einreichen."
+msgstr "Dir wurde verboten, zu [%(title)s](%(url)s)  einreichen."
 
 #: r2/lib/strings.py:93
 #, python-format
@@ -1445,12 +1445,12 @@ msgstr ""
 #: r2/lib/strings.py:120
 #, python-format
 msgid "too big. keep it under %(max_size)dkb"
-msgstr ""
+msgstr "Zu groß, halte es unter %(max_size)dkb"
 
 #: r2/lib/strings.py:121
 #, python-format
 msgid "syntax error: \"%(syntaxerror)s\""
-msgstr ""
+msgstr "syntax Fehler: \"%(syntaxerror)s\"
 
 #: r2/lib/strings.py:122
 msgid "@imports are not allowed"
@@ -1459,12 +1459,12 @@ msgstr ""
 #: r2/lib/strings.py:123
 #, python-format
 msgid "invalid CSS property list \"%(proplist)s\""
-msgstr ""
+msgstr "ungültige CSS Eigenschaftenliste \"%(proplist)s\""
 
 #: r2/lib/strings.py:124
 #, python-format
 msgid "unknown CSS rule type \"%(ruletype)s\""
-msgstr ""
+msgstr "unbekannter CSS Regeltyp"
 
 #: r2/lib/strings.py:126
 msgid "to anything interesting: news article, blog entry, video, picture..."
@@ -1474,12 +1474,12 @@ msgstr ""
 #: r2/lib/strings.py:127
 #, python-format
 msgid "%(author)s comments on %(title)s"
-msgstr ""
+msgstr "%(author)s Kommentare über %(title)s"
 
 #: r2/lib/strings.py:128
 #, python-format
 msgid "%(title)s : %(site)s"
-msgstr ""
+msgstr "%(title)s : %(site)s"
 
 #: r2/lib/strings.py:129
 #, python-format
