@@ -28,7 +28,7 @@ msgstr "API"
 
 #: r2/controllers/api.py:140
 msgid "thanks for your message! you should hear back from us shortly."
-msgstr "Danke für deine Nachricht! Du sollst bald von uns hören."
+msgstr "Danke für deine Nachricht! Du solltest bald von uns hören."
 
 #: r2/controllers/api.py:168
 msgid "your message has been delivered"
@@ -72,7 +72,7 @@ msgstr "Dein Passwort wurde aktualisiert"
 
 #: r2/controllers/api.py:888
 msgid "replied"
-msgstr ""
+msgstr "beantwortet"
 
 #: r2/controllers/api.py:949
 msgid "shared"
@@ -94,7 +94,7 @@ msgstr "Gelöscht"
 
 #: r2/controllers/api.py:1195 r2/templates/subredditstylesheet.html:196
 msgid "bad image name"
-msgstr ""
+msgstr "schlechter bildname"
 
 #: r2/controllers/api.py:1199
 #, python-format
@@ -103,43 +103,43 @@ msgstr "zu viele Bilder (Sie bekommen nur %d)"
 
 #: r2/controllers/api.py:1207
 msgid "Invalid image or general image error"
-msgstr ""
+msgstr "ungültiges bild oder genereller bildfehler"
 
 #: r2/controllers/api.py:1637
 msgid "claimed! now go to someone's userpage and give them a present!"
-msgstr ""
+msgstr "Beansprucht! Geh jetzt auf die Benutzerseite von jemandem und schenk Ihnen etwas!"
 
 #: r2/controllers/api.py:1642
 msgid "claimed!"
-msgstr ""
+msgstr "Beansprucht!"
 
 #: r2/controllers/api.py:1658
 msgid "an email will be sent to that account's address shortly"
-msgstr ""
+msgstr "Eine E-Mail wird an die Addresse dieses Kontos gesendet"
 
 #: r2/controllers/api.py:1660
 msgid "try again tomorrow"
-msgstr ""
+msgstr "Versuch's morgen nochmal"
 
 #: r2/controllers/api.py:1905 r2/controllers/api.py:2066
 msgid "invalid css class"
-msgstr ""
+msgstr "ungültige css Klasse"
 
 #: r2/controllers/api.py:1908 r2/controllers/api.py:2069
 msgid "too many css classes"
-msgstr ""
+msgstr "zu viele css Klassen"
 
 #: r2/controllers/api.py:2085
 msgid "max flair templates reached"
-msgstr ""
+msgstr "maximale flair Vorlagen erreicht"
 
 #: r2/controllers/api.py:2303
 msgid "redirecting..."
-msgstr ""
+msgstr "weiterleiten..."
 
 #: r2/controllers/api.py:2306
 msgid "error (sorry)"
-msgstr ""
+msgstr "Fehler ('tschuldigung)"
 
 #: r2/controllers/buttons.py:201 r2/controllers/buttons.py:209
 msgid "reddit buttons"
@@ -160,7 +160,7 @@ msgstr "Einreichen"
 
 #: r2/controllers/embed.py:65
 msgid "edit this page"
-msgstr ""
+msgstr "diese Seite bearbeiten"
 
 #: r2/controllers/embed.py:66
 msgid "yes, it's okay!"
@@ -168,7 +168,7 @@ msgstr "Ja, gut!"
 
 #: r2/controllers/embed.py:67
 msgid "just read this first."
-msgstr "Zuerst liess dieses "
+msgstr "Zuerst dies hier lesen."
 
 #: r2/controllers/embed.py:83 r2/lib/menus.py:88 r2/lib/pages/pages.py:418
 #: r2/templates/frametoolbar.html:107
@@ -186,11 +186,11 @@ msgstr "Dieses Reddit wurde gebannt"
 
 #: r2/controllers/errors.py:27
 msgid "please login to do that"
-msgstr ""
+msgstr "um das zu tun, bitte einloggen"
 
 #: r2/controllers/errors.py:28
 msgid "you need to set a valid email address to do that."
-msgstr ""
+msgstr "du brauchst eine gültige email Addresse um das zu tun."
 
 #: r2/controllers/errors.py:29
 msgid "a url is required"
@@ -214,11 +214,11 @@ msgstr "Dieser Benutzername ist schon vergeben"
 
 #: r2/controllers/errors.py:34
 msgid "that username is taken by a deleted account"
-msgstr ""
+msgstr "Dieser Benutzername ist schon von einem gelöschten Account vergeben"
 
 #: r2/controllers/errors.py:35
 msgid "you can't send to a user that you have blocked"
-msgstr ""
+msgstr "Du kannst nichts and einen Benutzer senden, den du blockiert hast"
 
 #: r2/controllers/errors.py:36
 msgid "id not specified"
@@ -230,23 +230,23 @@ msgstr "Das kannst du nicht tun"
 
 #: r2/controllers/errors.py:38
 msgid "you are not logged in as that user"
-msgstr ""
+msgstr "Du bist nicht als dieser Benutzer angemeldet."
 
 #: r2/controllers/errors.py:39
 msgid "the link you are commenting on has been deleted"
-msgstr ""
+msgstr "Der Link, den du kommentieren willst wurde gelöscht"
 
 #: r2/controllers/errors.py:40
 msgid "that comment has been deleted"
-msgstr ""
+msgstr "Dieses Kommentar wurde gelöscht"
 
 #: r2/controllers/errors.py:41
 msgid "that element has been deleted"
-msgstr ""
+msgstr "DIeses Element wurde gelöscht"
 
 #: r2/controllers/errors.py:42
 msgid "that password is unacceptable"
-msgstr ""
+msgstr "Dieses Passwort ist inakzeptabel"
 
 #: r2/controllers/errors.py:43
 msgid "invalid password"
@@ -254,11 +254,11 @@ msgstr "Falsches Passwort"
 
 #: r2/controllers/errors.py:44
 msgid "passwords do not match"
-msgstr "Passwörter passen nicht zusammen"
+msgstr "Passwörter stimmen nicht überein"
 
 #: r2/controllers/errors.py:45
 msgid "please enter a name"
-msgstr "Bitte gib einen Name ein"
+msgstr "Bitte gib einen Namen ein"
 
 #: r2/controllers/errors.py:46
 msgid "please enter an email address"
@@ -287,11 +287,11 @@ msgstr "Bitte gib einen Benutzernamen ein"
 #: r2/controllers/errors.py:53
 #, python-format
 msgid "that number isn't in the right range (%(min)d to %(max)d)"
-msgstr ""
+msgstr "Diese Nummer ist nicht im richtigen Bereicht (%(min)d to %(max)d"
 
 #: r2/controllers/errors.py:54
 msgid "you used a character here that we can't handle"
-msgstr ""
+msgstr "Du hast hier ein Zeichen benutzt, welches wir nicht bedienen können"
 
 #: r2/controllers/errors.py:55
 #, python-format
@@ -306,28 +306,28 @@ msgstr "Dieser Link wurde schon eingereicht"
 
 #: r2/controllers/errors.py:57
 msgid "that reddit already exists"
-msgstr ""
+msgstr "Dieses Reddit existiert bereits"
 
 #: r2/controllers/errors.py:58
 msgid "that reddit doesn't exist"
-msgstr ""
+msgstr "Dieses Reddit existiert nicht"
 
 #: r2/controllers/errors.py:59
 msgid "you aren't allowed to post there."
-msgstr ""
+msgstr "Du hast nicht die Erlaubnis dort zu posten"
 
 #: r2/controllers/errors.py:60
 msgid "you must specify a subreddit"
-msgstr ""
+msgstr "Du musst ein Subreddit angeben"
 
 #: r2/controllers/errors.py:61
 msgid "that name isn't going to work"
-msgstr "Dieser Benutzername geht nicht"
+msgstr "Dieser Benutzername wird nicht funktionieren"
 
 #: r2/controllers/errors.py:62
 #, python-format
 msgid "you are doing that too much. try again in %(time)s."
-msgstr ""
+msgstr "Du tust das zu oft, versuch's nochmal in %(time)s."
 
 #: r2/controllers/errors.py:63
 msgid "your session has expired"
@@ -344,7 +344,7 @@ msgstr "Diese Option ist nicht gültig"
 #: r2/controllers/errors.py:70
 #, python-format
 msgid "the following emails are invalid: %(emails)s"
-msgstr ""
+msgstr "DIe folgenden E-Mails sind ungültig: %(emails)s"
 
 #: r2/controllers/errors.py:71
 msgid "please enter at least one email address"
@@ -353,7 +353,7 @@ msgstr "Bitte gib mindestens eine E-Mail-Adresse ein"
 #: r2/controllers/errors.py:72
 #, python-format
 msgid "please only share to %(num)s emails at a time."
-msgstr ""
+msgstr "Bitte nur an %(num)s E-Mails auf einmal verteilen."
 
 #: r2/controllers/errors.py:73
 #, python-format
@@ -368,32 +368,32 @@ msgstr "Bitte gib ein Datum in der Form mm/tt/jjjj ein."
 
 #: r2/controllers/errors.py:75
 msgid "the dates need to be in order and not identical"
-msgstr ""
+msgstr "Die Daten müssen geordnet und nicht identisch sein"
 
 #: r2/controllers/errors.py:76
 #, python-format
 msgid "please enter a date at least %(day)s days in the future"
-msgstr ""
+msgstr "Bitte gib ein Datum ein, welches mindestens %(day)s Tage in der Zukunft liegt"
 
 #: r2/controllers/errors.py:77
 #, python-format
 msgid "please enter a date at least %(day)s days in the past"
-msgstr ""
+msgstr "Bitte gib ein Datum ein, welches mindestens %(day)s Tage in der Vergangenheit liegt"
 
 #: r2/controllers/errors.py:78
 #, python-format
 msgid "address problem: %(message)s"
-msgstr ""
+msgstr "Addressenproblem: %(message)s"
 
 #: r2/controllers/errors.py:79
 #, python-format
 msgid "card problem: %(message)s"
-msgstr ""
+msgstr "Kartenproblem: %(message)s"
 
 #: r2/controllers/errors.py:80
 #, python-format
 msgid "this is too long (max: %(max_length)s)"
-msgstr ""
+msgstr "Das ist zu lang (max: %(max_length)s)"
 
 #: r2/controllers/errors.py:81
 msgid "we need something here"
@@ -401,47 +401,47 @@ msgstr "Hier muss etwas stehen"
 
 #: r2/controllers/errors.py:82
 msgid "we've never seen that code before"
-msgstr ""
+msgstr "Wir haben noch nie solchen Code gesehen"
 
 #: r2/controllers/errors.py:83
 msgid "that code has already been claimed -- perhaps by you?"
-msgstr ""
+msgstr "Dieser Code wurde bereits beansprucht -- vielleicht von dir?"
 
 #: r2/controllers/errors.py:84
 msgid "that reddit doesn't allow text posts"
-msgstr ""
+msgstr "Dieses Reddit erlaubt keine Text-posts"
 
 #: r2/controllers/errors.py:85
 msgid "that reddit only allows text posts"
-msgstr ""
+msgstr "Dieses Reddit erlaubt nur Text-posts"
 
 #: r2/controllers/errors.py:86
 msgid "that's a piece of history now; it's too late to reply to it"
-msgstr ""
+msgstr "Das ist jetzt ein Teil der Vergangenheit; zu spät um darauf zu antworten"
 
 #: r2/controllers/errors.py:87
 msgid "invalid css name"
-msgstr ""
+msgstr "ungültiger css Name"
 
 #: r2/controllers/errors.py:88
 msgid "too many flair css classes"
-msgstr ""
+msgstr "zu viele flair css Klassen"
 
 #: r2/controllers/errors.py:89
 msgid "invalid client id"
-msgstr ""
+msgstr "ungültige client id"
 
 #: r2/controllers/errors.py:90
 msgid "access denied by the user"
-msgstr ""
+msgstr "Zugriff vom Benutzer verweigert"
 
 #: r2/controllers/errors.py:91
 msgid "please confirm the form"
-msgstr ""
+msgstr "Bitte bestätige das Formular"
 
 #: r2/controllers/feedback.py:40
 msgid "help translate reddit into your language"
-msgstr "Hilf reddit übersetzen"
+msgstr "Helfe uns, Reddit zu übersetzen"
 
 #: r2/controllers/feedback.py:41 r2/lib/menus.py:140
 msgid "help translate"
@@ -449,39 +449,39 @@ msgstr "Hilf bei der Übersetzung"
 
 #: r2/controllers/front.py:121
 msgid "self service help"
-msgstr ""
+msgstr "Selbstbedienungshilfe"
 
 #: r2/controllers/front.py:304
 msgid "no comments (yet)"
-msgstr ""
+msgstr "(noch) keine Kommentare"
 
 #: r2/controllers/front.py:306
 #, python-format
 msgid "all %d comments"
-msgstr ""
+msgstr "alle %d Kommentare"
 
 #: r2/controllers/front.py:308
 #, python-format
 msgid "top %d comments"
-msgstr ""
+msgstr "Top %d Kommentare"
 
 #: r2/controllers/front.py:331
 #, python-format
 msgid "show all %d"
-msgstr ""
+msgstr "alles anzeigen %d"
 
 #: r2/controllers/front.py:333
 #, python-format
 msgid "show %d"
-msgstr ""
+msgstr "anzeigen %d"
 
 #: r2/controllers/front.py:349
 msgid "create a reddit"
-msgstr "Erstellen Sie ein reddit"
+msgstr "Erstellen Sie ein Reddit"
 
 #: r2/controllers/front.py:351 r2/templates/createsubreddit.html:49
 msgid "create a community"
-msgstr ""
+msgstr "Erstell eine Community"
 
 #: r2/controllers/front.py:529 r2/lib/menus.py:142
 msgid "awards"
@@ -493,7 +493,7 @@ msgstr "Ähnlich"
 
 #: r2/controllers/front.py:577
 msgid "other discussions"
-msgstr ""
+msgstr "andere Diskussionen"
 
 #: r2/controllers/front.py:596 r2/controllers/front.py:640
 msgid "search results"
@@ -514,11 +514,11 @@ msgstr "E-Mail-Adresse verifizieren"
 
 #: r2/controllers/front.py:864 r2/templates/loginformwide.html:51
 msgid "reset password"
-msgstr "Nachstellen Passwort "
+msgstr "Passwort zurücksetzen"
 
 #: r2/controllers/front.py:1012 r2/controllers/post.py:161
 msgid "opt out"
-msgstr ""
+msgstr "aussteigen"
 
 #: r2/controllers/front.py:1012 r2/controllers/post.py:171
 msgid "welcome back"
@@ -526,41 +526,41 @@ msgstr "Willkommen zurück"
 
 #: r2/controllers/front.py:1042
 msgid "thanks"
-msgstr ""
+msgstr "Danke"
 
 #: r2/controllers/front.py:1075 r2/controllers/front.py:1097
 #: r2/lib/menus.py:101 r2/templates/gold.html:83
 msgid "reddit gold"
-msgstr ""
+msgstr "Reddit Gold"
 
 #: r2/controllers/ipn.py:228
 msgid "nice try."
-msgstr ""
+msgstr "Netter versuch."
 
 #: r2/controllers/ipn.py:276
 msgid "the gold has been delivered!"
-msgstr ""
+msgstr "Das Gold wurde übermittelt!"
 
 #: r2/controllers/ipn.py:449
 msgid "thanks for buying reddit gold!"
-msgstr ""
+msgstr "Danke, dass du Reddit Gold gekauft hast!"
 
 #: r2/controllers/ipn.py:459 r2/templates/thanks.html:32
 msgid "thanks for buying creddits!"
-msgstr ""
+msgstr "Danke, dass du Creddits gekauft hast!"
 
 #: r2/controllers/ipn.py:460
 msgid "To spend them, visit [/gold](/gold) or your favorite person's userpage."
-msgstr ""
+msgstr "Um sie auszugeben, besuche [/gold](/gold) oder die Benutzerseite deiner Lieblingsperson."
 
 #: r2/controllers/ipn.py:473
 msgid "thanks for giving reddit gold!"
-msgstr ""
+msgstr "Danke, dass du Reddit Gold vergeben hast!"
 
 #: r2/controllers/ipn.py:474
 #, python-format
 msgid "Your gift to %s has been delivered."
-msgstr ""
+msgstr "Dein Geschenk an %s wurde überreicht."
 
 #: r2/controllers/listingcontroller.py:348
 msgid "newest submissions"
@@ -581,32 +581,32 @@ msgstr "Dir ist gerade richtig langweilig, was?"
 #: r2/controllers/listingcontroller.py:502
 #, python-format
 msgid "overview for %(user)s"
-msgstr ""
+msgstr "Überblick für %(user)s"
 
 #: r2/controllers/listingcontroller.py:503
 #, python-format
 msgid "comments by %(user)s"
-msgstr ""
+msgstr "Kommentare von %(user)s"
 
 #: r2/controllers/listingcontroller.py:504
 #, python-format
 msgid "submitted by %(user)s"
-msgstr ""
+msgstr "Eingereicht von %(user)s"
 
 #: r2/controllers/listingcontroller.py:505
 #, python-format
 msgid "liked by %(user)s"
-msgstr ""
+msgstr "Gemocht von %(user)s"
 
 #: r2/controllers/listingcontroller.py:506
 #, python-format
 msgid "disliked by %(user)s"
-msgstr ""
+msgstr "Nicht gemocht von %(user)s"
 
 #: r2/controllers/listingcontroller.py:507
 #, python-format
 msgid "hidden by %(user)s"
-msgstr ""
+msgstr "Ausgeblendet von %(user)s"
 
 #: r2/controllers/listingcontroller.py:508
 #, python-format
@@ -622,15 +622,15 @@ msgstr "Alles"
 #: r2/controllers/listingcontroller.py:631
 #: r2/templates/printablebuttons.html:332
 msgid "unread"
-msgstr ""
+msgstr "Ungelesen"
 
 #: r2/controllers/listingcontroller.py:624
 msgid "comment replies"
-msgstr ""
+msgstr "Kommentar-Antworten"
 
 #: r2/controllers/listingcontroller.py:625
 msgid "post replies"
-msgstr ""
+msgstr "Post-Antworten"
 
 #: r2/controllers/listingcontroller.py:638 r2/templates/redditheader.html:88
 msgid "messages"
@@ -638,23 +638,23 @@ msgstr "Nachrichten"
 
 #: r2/controllers/listingcontroller.py:785 r2/templates/pagenamenav.html:33
 msgid "reddits"
-msgstr "reddits"
+msgstr "Reddits"
 
 #: r2/controllers/listingcontroller.py:835
 msgid "reddits: "
-msgstr "reddits:"
+msgstr "Reddits: "
 
 #: r2/controllers/listingcontroller.py:871
 msgid "comments"
-msgstr ""
+msgstr "Kommentare"
 
 #: r2/controllers/oauth2.py:42
 msgid "My Identity"
-msgstr ""
+msgstr "Meine Identität"
 
 #: r2/controllers/oauth2.py:43
 msgid "Access my reddit username and signup date."
-msgstr ""
+msgstr "Auf meine Reddit Benutzernamen und Anmeldedatum zugreifen"
 
 #: r2/controllers/post.py:135
 msgid "over 18?"
@@ -662,11 +662,11 @@ msgstr "Älter als 18?"
 
 #: r2/controllers/promotecontroller.py:48
 msgid "promoted by you"
-msgstr ""
+msgstr "von dir gefördert"
 
 #: r2/controllers/promotecontroller.py:443
 msgid "failed to authenticate card.  sorry."
-msgstr ""
+msgstr "Fehler beim Authentifizieren der Karte.  'tschuldigung."
 
 #: r2/controllers/promotecontroller.py:488
 msgid "bad image"
@@ -674,23 +674,23 @@ msgstr "schlechtes Bild"
 
 #: r2/controllers/reddit_base.py:870
 msgid "search failed"
-msgstr ""
+msgstr "Suche fehlgeschlagen"
 
 #: r2/controllers/validator/validator.py:1476
 msgid "please provide a first name"
-msgstr ""
+msgstr "Bitte gib einen Vornamen an"
 
 #: r2/controllers/validator/validator.py:1478
 msgid "please provide a last name"
-msgstr ""
+msgstr "Bitte gib einen Nachnamen an"
 
 #: r2/controllers/validator/validator.py:1480
 msgid "please provide an address"
-msgstr ""
+msgstr "Bitte gib eine Addresse an"
 
 #: r2/controllers/validator/validator.py:1482
 msgid "please provide your city"
-msgstr ""
+msgstr "Bitte gib deine Stadt an"
 
 #: r2/controllers/validator/validator.py:1484
 msgid "please provide your state"
