@@ -4442,11 +4442,11 @@ msgstr ""
 #: r2/templates/subredditinfobar.html:71
 #, python-format
 msgid "created by&#32;%(user)s"
-msgstr ""
+msgstr "erstellt von #32;%(us"
 
 #: r2/templates/subredditinfobar.html:75
 msgid "a community for"
-msgstr ""
+msgstr "Eine Gemeinschaft für"
 
 #: r2/templates/subredditinfobar.html:81
 msgid "approve this reddit"
@@ -4454,7 +4454,7 @@ msgstr ""
 
 #: r2/templates/subredditinfobar.html:89
 msgid "ban this reddit"
-msgstr ""
+msgstr "Dieses Reddit bannen"
 
 #: r2/templates/subredditinfobar.html:90 r2/templates/subscriptionbox.html:57
 msgid "banned"
@@ -4462,20 +4462,20 @@ msgstr "Gebannt"
 
 #: r2/templates/subredditstylesheet.html:41
 msgid "stylesheet"
-msgstr ""
+msgstr "Stylesheet"
 
 #: r2/templates/subredditstylesheet.html:70
 msgid "show the default stylesheet"
-msgstr ""
+msgstr "default-stylesheet anzeigen"
 
 #: r2/templates/subredditstylesheet.html:71
 msgid "hide the default stylesheet"
-msgstr ""
+msgstr "default-stylesheet verstecken"
 
 #: r2/templates/subredditstylesheet.html:81
 #: r2/templates/subredditstylesheet.html:262
 msgid "preview"
-msgstr ""
+msgstr "Vorschau"
 
 #: r2/templates/subredditstylesheet.html:96
 msgid "images"
@@ -4483,71 +4483,74 @@ msgstr "Bilder"
 
 #: r2/templates/subredditstylesheet.html:100
 msgid "image file"
-msgstr ""
+msgstr "Bilddatei"
 
 #: r2/templates/subredditstylesheet.html:103
 msgid "new image name:"
-msgstr ""
+msgstr "neuer Bildname:"
 
 #: r2/templates/subredditstylesheet.html:108
 msgid "(image names should consist of alphanumeric characters and '-' only)"
-msgstr ""
+msgstr "(Bildnamen können nur aus alphanumerischen Charakteren und '-' bestehen)"
 
 #: r2/templates/subredditstylesheet.html:112
 msgid ""
 "Note: any changes to images here will be reflected immediately on reload and "
 "cannot be undone."
-msgstr ""
+msgstr "Vorsicht: Änderungen der Bilder werden nach erneutem Laden sofort übernommen und "
+"können nicht rückgängig gemacht werden"
 
 #: r2/templates/subredditstylesheet.html:205
 msgid "please select an image"
-msgstr ""
+msgstr "bitte wähle ein Bild aus"
 
 #: r2/templates/subredditstylesheet.html:240
 msgid "paste into stylesheet"
-msgstr ""
+msgstr "in das Stylesheet einfügen"
 
 #: r2/templates/subredditstylesheet.html:243
 msgid "delete this image"
-msgstr ""
+msgstr "Bild löschen"
 
 #: r2/templates/subredditstylesheet.html:265
 msgid "normal link"
-msgstr ""
+msgstr "Normaler Link"
 
 #: r2/templates/subredditstylesheet.html:269
 msgid "compressed link"
-msgstr ""
+msgstr "komprimierter Link"
 
 #: r2/templates/subredditstylesheet.html:273
 msgid "link with thumbnail"
-msgstr ""
+msgstr "Link mit Vorschau"
 
 #: r2/templates/thanks.html:34
 msgid "thanks for subscribing!"
-msgstr ""
+msgstr "Danke, dass du abonniert hast!"
 
 #: r2/templates/thanks.html:39
 msgid "enter your confirmation code below to claim your gift creddits"
-msgstr ""
+msgstr "Gib hier deinen Bestätigungscode ein, um deine Geschenkguthaben zu aktivieren"
 
 #: r2/templates/thanks.html:41
 msgid "enter your confirmation code below to activate reddit gold"
-msgstr ""
+msgstr "Gib hier deinen Bestätigungscode ein, um Reddit Gold zu aktivieren"
 
 #: r2/templates/thanks.html:44
 msgid "You claimed a reddit gold subscription in the last few minutes."
-msgstr ""
+msgstr "Du hast vor wenigen Minuten bereits ein Reddit-Gold-Abonnement angefordert."
 
 #: r2/templates/thanks.html:46
 msgid "You're already a reddit gold subscriber."
-msgstr ""
+msgstr "Du bist bereits für Reddit Gold eingetragen."
 
 #: r2/templates/thanks.html:49
 msgid ""
 "But if you just gave us even more money, enter the new confirmation code "
 "below and we'll add the extra credit to your account."
 msgstr ""
+"Wenn du uns bereits noch mehr Geld zukommen hast lassen, trage bitte unten den Bestätigungscode ein "
+"und wir werden die Summe deinem Account hinzufügen."
 
 #: r2/templates/thanks.html:62
 msgid "claim"
@@ -4560,27 +4563,27 @@ msgstr "Staub"
 #: r2/templates/trophycase.html:107
 #, python-format
 msgid "%d more"
-msgstr ""
+msgstr "%d mehr"
 
 #: r2/templates/unfoundpage.html:25
 msgid "the page you requested does not exist"
-msgstr "Die Seite die du angefragt hast, existiert nicht"
+msgstr "Die Seite, die du angefragt hast, existiert nicht"
 
 #: r2/templates/userawards.html:39
 msgid "Ongoing awards, and their most recent winners:"
-msgstr ""
+msgstr "Laufende Preisverleihungen und ihre letzten Gewinner:"
 
 #: r2/templates/userawards.html:54
 msgid "won by"
-msgstr ""
+msgstr "gewonnen von"
 
 #: r2/templates/userawards.html:57
 msgid "recently won by"
-msgstr ""
+msgstr "kürzlich gewonnen von"
 
 #: r2/templates/userawards.html:85
 msgid "for this"
-msgstr "für"
+msgstr "dafür"
 
 #: r2/templates/userawards.html:95
 msgid "Special awards:"
@@ -4588,31 +4591,31 @@ msgstr ""
 
 #: r2/templates/useriphistory.html:30
 msgid "Recent activity on your account"
-msgstr ""
+msgstr "Letzte Aktivitäten deines Accounts"
 
 #: r2/templates/useriphistory.html:39
 msgid "IP address"
-msgstr ""
+msgstr "IP-Adresse"
 
 #: r2/templates/useriphistory.html:40
 msgid "Location"
-msgstr ""
+msgstr "Ort"
 
 #: r2/templates/useriphistory.html:41
 msgid "Last Visit"
-msgstr ""
+msgstr "Letzter Besuch"
 
 #: r2/templates/userlist.html:37
 msgid "add"
-msgstr "Hinzufügen"
+msgstr "hinzufügen"
 
 #: r2/templates/usertableitem.html:61
 msgid "can't remove"
-msgstr ""
+msgstr "kann nicht entfernt werden"
 
 #: r2/templates/usertext.html:72
 msgid "formatting help"
-msgstr ""
+msgstr "Formatierungshilfe"
 
 #: r2/templates/usertext.html:95
 msgid "you type:"
@@ -4624,7 +4627,7 @@ msgstr "Du siehst:"
 
 #: r2/templates/usertext.html:99 r2/templates/usertext.html:100
 msgid "italics"
-msgstr "Kursiv"
+msgstr "kursiv"
 
 #: r2/templates/usertext.html:103 r2/templates/usertext.html:104
 msgid "bold"
@@ -4634,7 +4637,7 @@ msgstr "Fettschrift"
 #: r2/templates/usertext.html:114 r2/templates/usertext.html:118
 #: r2/templates/usertext.html:119 r2/templates/usertext.html:120
 msgid "item"
-msgstr "Einzelteil"
+msgstr "Element"
 
 #: r2/templates/usertext.html:125 r2/templates/usertext.html:126
 msgid "quoted text"
@@ -4650,19 +4653,19 @@ msgstr "Einige Sprachen"
 
 #: r2/templates/utils.html:295
 msgid "Type: "
-msgstr ""
+msgstr "Type: "
 
 #: r2/templates/utils.html:305
 msgid "uploading"
-msgstr ""
+msgstr "hochladen"
 
 #: r2/templates/utils.html:307
 msgid "upload"
-msgstr ""
+msgstr "hochladen"
 
 #: r2/templates/utils.html:516
 msgid "popular choices"
-msgstr ""
+msgstr "beliebte Möglichkeiten"
 
 #: r2/templates/widgetdemopanel.html:111
 #, python-format
@@ -4677,15 +4680,15 @@ msgid ""
 msgstr ""
 "Einfach den erzeugten Code ausschneiden und in deiner Seite einfügen und "
 "deine festgelegten %(site)s Feeds werden angezeigt und aktualisiert, sobald "
-"neue Schlagzeilen aufkommen."
+"neue Schlagzeilen erscheinen."
 
 #: r2/templates/widgetdemopanel.html:115
 msgid "which links do you want to display?"
-msgstr "Welche Links möchtest Du anzeigen?"
+msgstr "Welche Links möchtest du anzeigen?"
 
 #: r2/templates/widgetdemopanel.html:125
 msgid "all-time"
-msgstr "Aller Zeiten"
+msgstr "immer"
 
 #: r2/templates/widgetdemopanel.html:131
 msgid "submitted by"
@@ -4710,7 +4713,7 @@ msgstr ""
 #: r2/templates/widgetdemopanel.html:151
 #, python-format
 msgid "links from %(domain)s"
-msgstr ""
+msgstr "Links von %(domain)s"
 
 #: r2/templates/widgetdemopanel.html:155
 #, python-format
@@ -4720,24 +4723,24 @@ msgstr ""
 #: r2/templates/widgetdemopanel.html:159
 #, python-format
 msgid "links from the domain %(domain)s"
-msgstr ""
+msgstr "Links der Domain %(domain)s"
 
 #: r2/templates/widgetdemopanel.html:165
 msgid "sorting options"
-msgstr ""
+msgstr "Sortierungsoptionen"
 
 #: r2/templates/widgetdemopanel.html:171
 msgid "hottest"
-msgstr "Am heißesten"
+msgstr "am gefragtesten"
 
 #: r2/templates/widgetdemopanel.html:172
 msgid "newest"
-msgstr "Neueste"
+msgstr "neueste"
 
 #: r2/templates/widgetdemopanel.html:176
 #, python-format
 msgid "sort links by %(what)s"
-msgstr ""
+msgstr "Links sortieren nach %(what)s"
 
 #: r2/templates/widgetdemopanel.html:179
 #, python-format
@@ -4746,39 +4749,39 @@ msgstr ""
 
 #: r2/templates/widgetdemopanel.html:182
 msgid "number of links to show"
-msgstr ""
+msgstr "Anzahl der Links, die angezeigt werden sollen"
 
 #: r2/templates/widgetdemopanel.html:200
 msgid "remove css styling"
-msgstr ""
+msgstr "CSS-Design entfernen"
 
 #: r2/templates/widgetdemopanel.html:202
 msgid "(the widget will inherit all styles from the page)"
-msgstr ""
+msgstr "(das Widget wird alle Styles der Seite übernehmen)"
 
 #: r2/templates/widgetdemopanel.html:210
 msgid "enable in-widget voting"
-msgstr ""
+msgstr "In-Widget-Voten aktivieren"
 
 #: r2/templates/widgetdemopanel.html:212
 msgid "(will slow down the rendering)"
-msgstr ""
+msgstr "(dies verlangsamt das Rendering"
 
 #: r2/templates/widgetdemopanel.html:221
 msgid "two columns"
-msgstr ""
+msgstr "zwei Spalten"
 
 #: r2/templates/widgetdemopanel.html:228
 msgid "background color"
-msgstr ""
+msgstr "Hintergrundfarbe"
 
 #: r2/templates/widgetdemopanel.html:232
 msgid "(e.g., FF0000 = red)"
-msgstr ""
+msgstr "(zB FF0000 = rot)"
 
 #: r2/templates/widgetdemopanel.html:239
 msgid "border color"
-msgstr ""
+msgstr "Rahmenfarbe"
 
 #: r2/templates/widgetdemopanel.html:249
 msgid "the code"
@@ -4787,9 +4790,7 @@ msgstr "Der Code"
 #: r2/templates/widgetdemopanel.html:251
 #, python-format
 msgid "add this into your HTML where you want the %(site)s links displayed"
-msgstr ""
-"Füge dies in deinen HTML-Code, in dem du die Links der %(site)s anzeigen "
-"willst"
+msgstr "Füge dies in deinen HTML-Code, in dem du die Links der %(site)s anzeigen willst"
 
 #~ msgid "see? you don't really want to leave"
 #~ msgstr "Siehst Du? Du willst nicht wirklich weggehen"
@@ -4798,23 +4799,23 @@ msgstr ""
 #~ msgstr "Dein Benutzerkonto löschen? Hoffentlich hast du einen guten Grund."
 
 #~ msgid "you must specify a reddit"
-#~ msgstr "Du musst ein Reddit spezifieren"
+#~ msgstr "Du musst ein Reddit angeben"
 
 #~ msgid "you are trying to submit too fast. try again in %(time)s."
 #~ msgstr ""
-#~ "Du versuchst zu schnell einzureichen. Probiere es nochmal in %(time)s."
+#~ "Du schickst zuviele Nachrichten. Probiere es nochmal in %(time)s."
 
 #~ msgid "feedback"
 #~ msgstr "Feedback"
 
 #~ msgid "Create your own reddit"
-#~ msgstr "Erstellen Sie einen reddit"
+#~ msgstr "Erstelle ein Reddit"
 
 #~ msgid "about us"
 #~ msgstr "Über uns"
 
 #~ msgid "manage your reddit"
-#~ msgstr "Verwalten Dein reddit"
+#~ msgstr "Verwalte Dein Reddit"
 
 #~ msgid "millisecond"
 #~ msgid_plural "milliseconds"
@@ -4834,13 +4835,13 @@ msgstr ""
 #~ msgstr "Gut %(num)d Ergebnisse nach %(second)s."
 
 #~ msgid "inquire about advertising on reddit"
-#~ msgstr "Möchtest Du auf reddit werben?"
+#~ msgstr "Möchtest Du auf Reddit werben?"
 
 #~ msgid "+ frontpage"
-#~ msgstr "+Homepage"
+#~ msgstr "+ Homepage"
 
 #~ msgid "- frontpage"
-#~ msgstr "-Homepage"
+#~ msgstr "- Homepage"
 
 #~ msgid "reports"
 #~ msgstr "Berichte"
